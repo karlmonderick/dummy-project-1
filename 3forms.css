@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(5, 0, 35);
+    color: white;
+    height: 100vh;
+    margin: 0;
+    max-width: fit-content;
+}
+
+.header {
+    text-align: center;
+}
+
+h1{
+    font-size: 36px;
+    margin: 10px auto;
+}
+
+p {
+    font-size: 16px;
+}
+
+.create {
+    margin: 5px auto;
+}
+
+label {
+    display: block;
+}
+
+.logins {
+    background-color: skyblue;
+    border: none solid skyblue;
+    display: block;
+    width: 500px;
+}
+
+fieldset {
+    border: none;
+}
